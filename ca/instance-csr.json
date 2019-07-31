@@ -1,0 +1,16 @@
+{
+  "CN": "system:node:INSTANCE",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "SE",
+      "L": "Stockholm",
+      "O": "system:nodes",
+      "OU": "Kubernetes",
+      "ST": "Stockholm"
+    }
+  ]
+}
